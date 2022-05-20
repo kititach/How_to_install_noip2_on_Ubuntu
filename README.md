@@ -1,4 +1,4 @@
-# How-to-install-the-noip2-on-Ubuntu
+# How_to_install_noip2_on_Ubuntu
 
 ### update os Ubuntu
 ```
